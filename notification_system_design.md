@@ -304,7 +304,7 @@ with query params:
 
 ---
 
-## Logging Middleware Integration (Mandatory)
+## Logging Middleware Integration
 All modules use custom logging middleware package instead of console logs.
 
 Used log fields:
