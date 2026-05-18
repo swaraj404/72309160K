@@ -1,0 +1,7 @@
+body{font-family:Inter,system-ui,Arial,Helvetica,sans-serif;margin:24px;background:#f7f9fc;color:#111}
+main{max-width:900px;margin:0 auto}
+h1{font-size:20px;margin-bottom:8px}
+table{width:100%;border-collapse:collapse;margin-top:12px;background:#fff}
+th,td{padding:8px;border:1px solid #e6eef8;text-align:left}
+thead{background:#eef6ff}
+#status{padding:12px;background:#fff;border:1px solid #e6eef8}
